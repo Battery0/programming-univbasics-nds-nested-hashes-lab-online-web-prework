@@ -28,9 +28,16 @@ def literal_aoh
   },
   {
     name: "Pat Monteseian"
-    occupation: "Radio Personality"
+    occupation: "Staff"
   },
-  
+  {
+    name: "Kate Gompert"
+    occupation: "None"
+  },
+  {
+    name: "Bruce Green"
+    occupation: "None"
+  },
   ]
 end
 
