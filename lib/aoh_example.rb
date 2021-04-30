@@ -23,8 +23,9 @@ def literal_aoh
     occupation: "Live-in Staff"
   },
   {
-    
-  }
+    name: "Don Gately"
+    occupation: "Live-in Staff"
+  },
   
   ]
 end
