@@ -26,6 +26,10 @@ def literal_aoh
     name: "Joelle van Dyne"
     occupation: "Radio Personality"
   },
+  {
+    name: "Pat Monteseian"
+    occupation: "Radio Personality"
+  },
   
   ]
 end
